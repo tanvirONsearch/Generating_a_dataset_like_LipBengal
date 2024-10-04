@@ -11,4 +11,4 @@ Where :
 
 **iii.** And those frames are saved to desire folders.
 
-To run the code as it is just chane the directories in the notebook and you will be good to go.
+To run the code as it is just change the directories in the notebook and you will be good to go.
