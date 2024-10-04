@@ -11,4 +11,5 @@ Where :
 
 **iii.** And those frames are saved to desire folders.
 
-To run the code as it is just change the directories in the notebook and you will be good to go.
+To run the code as it is just put raw videos in the raw data folder and change the directories in the notebook and you will be good to go.
+To get Raw videos mail us : tanvir.sahed00@gmail.com
